@@ -13,13 +13,6 @@
 ---
 
 
-#### Warning ( I have disabled Google Cloud Console so some features of the application like ( image loading will not work ) but the code is there :)
-
-I have added some accounts just for checking , so to log in as admin -> ```admin@dopeshop.com``` and ```123123``` , 
-to log in as ordinary user -> ```noadmin@dopeshop.com``` and ```123123```
-
-Of course you can create as many ordinary users as you want .
-
 ## Features
 - **App**
   - User Authentication using  (BCrypt gem)
@@ -43,24 +36,8 @@ Of course you can create as many ordinary users as you want .
 Images from version V1.0
 
 
-| Home  | Users
-|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/40195917-99eec18c-5a17-11e8-9091-75719a991c32.png) | ![Sec](https://user-images.githubusercontent.com/20374208/40195918-9a10a7e8-5a17-11e8-8261-ac945dcba10e.png) |
-
-| Orders  | Articles
-|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/20374208/34919204-13275106-f968-11e7-9ba3-316eb500e202.png) | ![Sec](https://user-images.githubusercontent.com/20374208/34919221-680184e4-f968-11e7-9878-0a3dd9f3f501.png) |
-
-Cart
-![cart](https://user-images.githubusercontent.com/20374208/40195915-99a80788-5a17-11e8-8a4c-df5a85d829a4.png)
-
 ---
 
-# Special Thanks on 
-
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Getting started
 
@@ -88,5 +65,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
